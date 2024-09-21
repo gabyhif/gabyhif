@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnolo
  
 ## 🌟 Sobre Mim
 
-- 🎓 **Formação**: Graduada em tecnico em informática pelo Instituto Federal da Paraíba-Campus Cajazeiras.
+- 🎓 **Formação**: Formando em tecnico em informática pelo Instituto Federal da Paraíba-Campus Cajazeiras.
 - 🔭 **Interesses**: Desenvolvimento de software, Biotecnologia, Ciência Exatas, Ciência da Computação, WEB e IA
 - 🌱 **Atualmente aprendendo**: HTML, CSS, Programação em Blocos e UML
 - 📫 **Contato**: gabrielly.carvalho@academico.ifpb.edu.br
